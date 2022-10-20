@@ -1,4 +1,11 @@
-| Test Number | Tele Ops | Decay time | Decay accn |
-| :---:        |    :--------: | :----: | :----:|
-|1      | Yes/No | 10 secs | 1.0 |
-| 2   | Yes/No        | 10secs      | 1.0|
+| Test Number | Difficulty | Obstacles | Time Taken | Tele Ops / Collision |
+| :-----------: | :----------: | :---------: | :----------: | :--------------------: |
+| 1           | Easy       |           |            |                      |  
+| 2           | Easy       |           |            |                      |  
+| 3           | Easy       |           |            |                      |  
+| 4           | Medium     |           |            |                      |  
+| 5           | Medium     |           |            |                      |  
+| 6           | Medium     |           |            |                      |  
+| 7           | Hard       |           |            |                      |  
+| 8           | Hard       |           |            |                      |  
+| 9           | Hard       |           |            |                      |  
