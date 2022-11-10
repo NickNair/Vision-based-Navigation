@@ -1,10 +1,16 @@
-| Test Number | Tele Ops | Decay time | Decay accn |
-| :---:        |    :--------: | :----: | :----:|
-|1      | Yes/No | 10 secs | 1.0 |
-| 2   | Yes/No        | 10secs      | 1.0|
+# Spatio Temporal Voxel Layer
+## Tests with Chair and Ladder
 
-tvec,rvec [[[-0.02400133 -0.40423813  1.95536034]]] [[[ 2.23226045 -0.14077334  0.06407216]]]
 
-Inv-T-vec: [-0.19521891 -1.77754074  0.88862653]
 
-Inv-R-vec: [-2.23226045  0.14077334 -0.06407216]
+| Test Number | Difficulty | Obstacles | Time Taken | Tele Ops / Collision |
+| :-----------: | :----------: | :---------: | :----------: | :--------------------: |
+| 1           | Easy       |           |            |                      |  
+| 2           | Easy       |           |            |                      |  
+| 3           | Easy       |           |            |                      |  
+| 4           | Medium     |           |            |                      |  
+| 5           | Medium     |           |            |                      |  
+| 6           | Medium     |           |            |                      |  
+| 7           | Hard       |           |            |                      |  
+| 8           | Hard       |           |            |                      |  
+| 9           | Hard       |           |            |                      |  
