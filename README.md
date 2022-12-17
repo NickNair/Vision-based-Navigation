@@ -3,7 +3,8 @@
 ## Finding the tf of the camera 
 
 ### 1. Calibrate the camera
-Add the images (10-14) with the chessboard to the calibration folder. Note the K and D matrices and update it in the camera_pose.py script. 
+Add the images (10-14) with the chessboard to the calibration folder. Note the K and D matrices and update it in the camera_pose.py script.
+Make sure to specify resolution of camera in the camera_calibration.py
 ```
 python3 camera_calibration.py calibration/
 ```
